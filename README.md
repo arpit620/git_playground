@@ -7,6 +7,6 @@ Adding another feature details.
 
 Adding couple of more lines
 line1
-line2
 line3
 line4
+More stuff goes here
