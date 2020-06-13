@@ -2,4 +2,11 @@
 
 Testing out specific git funcationality
 
-This is some new funcationality being added to the repo.
+Adding another feature details.
+
+
+Adding couple of more lines
+line1
+line2
+line3
+line4
