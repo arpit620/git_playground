@@ -1,6 +1,6 @@
 # git_playground
 
-Testing out specific git funcationality
+Testing out specific git functionality
 
 Adding another feature details.
 
